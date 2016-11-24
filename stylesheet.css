@@ -14,7 +14,7 @@
 	border: 0.2px solid;
 	border-color: #dfdfdf;
 	border-radius: 0.5px;
-	box-shadow: 0.5px 0.5px 0.5px #4171bf;
+	box-shadow: 1.0px 0.5px 0.5px #4171bf;
 }
 #nav-bar a, #nav-bar a:visited {
 	text-align:left; 

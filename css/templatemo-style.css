@@ -67,6 +67,8 @@ p:last-child { margin-bottom: 0; }
 
 .content-gallery { max-width: 900px; }
 
+.content-courses { max-width: 1000px; }
+
 .content-text {
 	background-color: white;
 	padding: 40px;

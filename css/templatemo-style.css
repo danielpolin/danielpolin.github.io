@@ -61,7 +61,8 @@ p:last-child { margin-bottom: 0; }
 
 .content {
 	max-width: 1000px;
-	margin-left: auto;
+	margin-left: 10;
+	margin-right: auto;
 }
 
 .content-gallery { max-width: 900px; }

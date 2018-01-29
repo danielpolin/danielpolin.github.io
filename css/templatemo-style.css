@@ -62,7 +62,7 @@ p:last-child { margin-bottom: 0; }
 .content {
 	max-width: 600px;
 	margin-left: 10px;
-	margin-right: 0;
+	margin-right: auto;
 }
 
 .content-gallery { max-width: 900px; }

@@ -60,12 +60,11 @@ p:last-child { margin-bottom: 0; }
 .content-wrapper { margin-top: 100px; }
 	
 .content {
-	max-width: 600px;
+	max-width: 400px;
 	margin-left: 10px;
 	margin-right: auto;
 }
 
-.content-home { max-width: 400px; }
 
 .content-gallery { max-width: 900px; }
 
